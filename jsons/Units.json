@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"name": "Ravenna Crossbowman",
+		"unitType": "",
+		"uniqueTo": "Venezia",
+		"replaces": "Crossbowman",
+		"movement": 3,
+		"strength": 40,
+		"rangedStrength": 70,
+		"range": 3,
+		"cost": 230,
+		"requiredTech": "Machinery",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": ""
 	}
 ]
