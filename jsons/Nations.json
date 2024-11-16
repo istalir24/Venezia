@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Venezia",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"adjective": ["Veneto"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Enrico Dandolo, Doge of venezia! your most serenne republic cheers you! cheers it's former glory!",
+		"startIntroPart2": "will you lead Venezia back to their glory? oh Great Doge Enrico Dandolo.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "resist is foolish, prepare for become a fine colony of venezia!",
+		"attacked": "you dare to invade the Most Serenne republic of Venezia? you damn PIG!",
+		"defeated": "Ho- How, how i could fail to my people, my republic, and my Home. pls, PLEASE don't Burn Venezia. i PLEDGE YOU.",
+		"introduction": "Hello! i hope you're willing to trade, because otherwise i will have to force you to do so..",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,12 +27,13 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [76,98,154],
+		"innerColor": [20,65,93],
+		"unique": "Conquerong the Mediterranean",
+
+		"cities": ["Venezia","Padova","Verona","Vicenza","Brescia","Bergamo","Cremona","Treviso","Ravenna",
+			"Chioggia","Mantova","Udine","Zara","Spalato","Ragusa","Sebenico","Cattaro","Lesina","Curzola",
+			"Candia","Chania","Rethymo","Modon","Coroni","Naxos","Paros","Milos","Rhodes","Thessaloniki",
+			"Famagusta","Nicosia","Acre","Tyre","Antioch","Durazzo"]
 	}
 ]
